@@ -3,8 +3,8 @@ README
 This dataset is from the paper titled
 
     "Evolution of interspecific variation in marine larval dispersal kernels: the role of larval navigation ability"
-    By: [removed for double-blind review]
-    In review at: The American Naturalist
+    By: E L Schlatter, Allison K Shaw, Colleen T Webb, Peter M Buston
+    In revision at: Oikos
 
 and is based on the model from the paper titled
 
@@ -12,7 +12,7 @@ and is based on the model from the paper titled
     By: Allison K Shaw, Cassidy C D'Aloia, Peter M Buston
     Published in: The American Naturalist
 
-Contact [removed for double-blind review] for assistance.
+Contact eschlatter1@gmail.com for assistance.
 
 The following files are included:
 
